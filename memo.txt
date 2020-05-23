@@ -5,4 +5,6 @@ Hello World
 -> adding this line for testing branching in gitHub
 -> adding another line for seeing merging
 
--> what should I add?
+
+-> feature2 branch was added. Let's see.
+-> before merge this file to master in GitHub, adding another line
