@@ -6,3 +6,4 @@ Hello World
 -> adding another line for seeing merging
 
 -> what should I add?
+-> feature2 branch was added. Let's see.
